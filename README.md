@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ## Hi, I'm 吕顺波（wuyan）👋
 
-**AI 应用开发（Java）/ AI Agent 应用开发** | 2027 届 | 云南农业大学
+**Java 后端开发（具备 AI Agent 全栈开发经验）** | 2027 届 | 云南农业大学
 
 Java 微服务 + AI Agent 双栈，能把 Agent 接到业务系统并部署上线。
 
-- 🔭 正在做：简历候选人能力画像智能体（Spring AI / LangChain4j）
-- 🌱 正在学：RAG、Function Calling、MCP、Memory
-- 🛠 技术栈：Java / Spring Boot / Spring Cloud / MySQL / Redis / RabbitMQ / Docker / FastGPT
+- 🔭 正在做：AI 超级智能体（Spring Boot 3 + Spring AI + RAG + Tool Calling + MCP）
+- 🌱 正在学：AI 超级智能体、AI 零代码应用生成项目；RAG、Function Calling、MCP、Memory、LangGraph4j
+- 🛠 技术栈：Java / Spring Boot 3 / Spring AI / Spring Cloud / MySQL / Redis / RabbitMQ / Docker
 - 🌐 作品集：https://yourdomain.com
 - 📝 公众号/CSDN：...
 - 📫 邮箱：fullstackjai@163.com
@@ -30,6 +30,6 @@ Java 微服务 + AI Agent 双栈，能把 Agent 接到业务系统并部署上�
 
 | 项目 | 技术栈 | 链接 |
 | --- | --- | --- |
-| 简历候选人能力画像智能体 | FastGPT / 飞书 API / 结构化输出 | [Repo](...) · [Demo](...) |
+| AI 超级智能体 | Spring AI / RAG / Tool Calling / MCP | [Repo](...) · [Demo](...) |
 | 同城拼车小程序 | Spring Cloud / RabbitMQ / WebSocket | [Repo](...) |
-| 校园美食点评分析智能体 | FastGPT / 双 LLM 并行 / 飞书入库 | [Repo](...) |
+| AI 零代码应用生成项目 | Spring Cloud / LangGraph4j / 多 Agent | [Repo](...) |
